@@ -1,4 +1,4 @@
-timestamp,temp_c,humidity_pct,lux,vpd_kpa,y,y_label
+timestamp,temperature,humidity,lux,vpd,state,state_label
 2026-06-01 00:00:00,25.35,63.09,0.0,1.194,0,normal
 2026-06-01 00:02:00,25.65,68.0,0.0,1.054,0,normal
 2026-06-01 00:04:00,26.44,69.6,0.0,1.049,0,normal
